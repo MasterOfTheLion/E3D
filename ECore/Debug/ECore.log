@@ -1,0 +1,49 @@
+﻿  ECore.cpp
+e:\work\e3d\ecore\ecore.cpp(684): warning C4244: “+=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(685): warning C4244: “+=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(686): warning C4244: “+=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(693): warning C4244: “+=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(694): warning C4244: “+=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(695): warning C4244: “+=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(720): warning C4244: “+=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(721): warning C4244: “+=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(722): warning C4244: “+=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(729): warning C4244: “+=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(730): warning C4244: “+=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(731): warning C4244: “+=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1049): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1048): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1052): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1051): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1055): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1054): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1080): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1079): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1082): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1081): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1084): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1083): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1116): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1115): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1114): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1142): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1141): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1140): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1206): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1207): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1243): warning C4244: “=”: 从“E3D::EInt”转换到“E3D::EFloat”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1244): warning C4244: “=”: 从“E3D::EInt”转换到“E3D::EFloat”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1287): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1290): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1360): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1361): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1396): warning C4244: “=”: 从“E3D::EInt”转换到“E3D::EFloat”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1397): warning C4244: “=”: 从“E3D::EInt”转换到“E3D::EFloat”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1441): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\work\e3d\ecore\ecore.cpp(1444): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+  EFrustum.cpp
+  ELight.cpp
+  EMath.cpp
+  EVector.cpp
+  正在生成代码...
+  ECore.vcxproj -> E:\work\E3D\Debug\ECore.lib
